@@ -1,0 +1,10 @@
+flask
+flask-cors
+python-jose
+passlib[argon2]
+python-dotenv
+pandas
+scikit-learn
+joblib
+requests
+firebase-admin
